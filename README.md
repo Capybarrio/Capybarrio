@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Привіт 👋, я Mykhailo</h1>
+<h3 align="center">Full Stack Web Developer | MERN | Open to opportunities</h3>
 
-<!--
-**Capybarrio/Capybarrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Я зараз працюю над проєктом **SHOPPER — інтернет-магазин одягу на MERN-стеку**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Можу допомогти з **React**, **Node.js**, **MongoDB**, **REST API**
+
+- 📫 Як зі мною зв’язатися: **mishatapoek@gmail.com**
+
+- ⚡ Факт: Я люблю поєднувати дизайн і логіку у вебзастосунках 🧠🎨
+
+---
+
+### 🛠️ Мій стек технологій:
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### Інше
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📈 GitHub статистика:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Capybarrio&show_icons=true&theme=tokyonight" alt="Capybarrio stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capybarrio&layout=compact&theme=tokyonight" alt="Capybarrio langs"/>
+</p>
