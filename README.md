@@ -7,8 +7,8 @@
 - 💬 Можу допомогти з **React**, **Node.js**, **MongoDB**, **REST API**
 
 - 📫 Як зі мною зв’язатися: 
-• Email: mishatapoek@gmail.com
-• Telegram: @re_michail
+ Email: mishatapoek@gmail.com
+ Telegram: @re_michail
 
 - ⚡ Факт: Я люблю поєднувати дизайн і логіку у вебзастосунках 🧠🎨
 
