@@ -1,5 +1,5 @@
 <h1 align="center">Привіт 👋, я Mykhailo</h1>
-<h3 align="center">Full Stack Web Developer | MERN | Open to opportunities</h3>
+<h3 align="center">Learning Web Development |  Open to opportunities</h3>
 
 - 👨‍💻 Я зараз працюю над проєктом **SHOPPER — інтернет-магазин одягу на MERN-стеку**
 
